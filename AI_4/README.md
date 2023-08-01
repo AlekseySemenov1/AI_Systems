@@ -2,6 +2,8 @@
 ## Влияние гиперпараметров на обучение нейронной сети
 ___
 ### Подробный отчет в соответствии с заданием [тут](/AI_4/Report4.pdf)
+### [Интерфейс](/AI_4/Lab4_Part1.ipynb) настройки нейросети для распознавания мат функций
+### [Интерфейс](/AI_4/Lab4_Part2.ipynb) настройки нейросети для распознавания изображений
 ### Задание: 
 1) By changing these hyperparameters try to reach max accuracy value (at least 0.95) for Part2 model with fixed epoch count 20
 2) Change 1st hyperparameter’s value from min to max with minimal step depends on your variant 
